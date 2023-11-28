@@ -13,6 +13,9 @@
 
 - [ ] Create example projects to show data structure in use
 
+##Haley's subheader: After project completion
+- [ ] get hyped
+- [ ] dance
 
 
 ## License: AGPL 3.0
