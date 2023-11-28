@@ -15,6 +15,6 @@
 
 
 
-## License for Project: The GNU’s General Public License 
+## License: AGPL 3.0
 
-This liscense has the greatest popularity of any of the open source licenses. As a copyleft license, if there is any software that uses any GPL component as a base must be open source. 
+The AGPL license is similar to the popular, well-known GNU license, but with a few modifications: mainly, that if a provider decides to modify the code and offer it as a service over the internet, they must open-source their code as well, or else it will violate the license.
