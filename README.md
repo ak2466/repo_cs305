@@ -2,16 +2,16 @@
 
 ## To do: 
 
-- [x] place yoghurt in blender
+- [x] Create BST-based data engine
 
-- [ ] place frozen fruit in blender
+- [ ] Create heap utility based on data engine
 
-- [ ] add juice to blender
+- [ ] Optimize code
 
 ## Some time in the future:
-- [ ] Find owners' manual of blender
+- [ ] Write detailed documentation
 
-- [ ] Use blender to blend smoothie
+- [ ] Create example projects to show data structure in use
 
 
 
